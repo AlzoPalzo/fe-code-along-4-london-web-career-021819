@@ -144,7 +144,7 @@ section {
   width: 40px;
   z-index: 1;
 }
- 
+
 #social  a {
   display: block;
   width: 40px;
@@ -153,7 +153,7 @@ section {
 }
 
 /*////////// SECTIONS //////////*/
- 
+
 header {
   position: fixed;
   top: 0;
